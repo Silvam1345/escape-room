@@ -1,0 +1,50 @@
+Name: Terry
+Puzzles Solved: 5
+Time: 171 secs
+Final Score: 4500
+-
+Name: Lisa
+Puzzles Solved: 3
+Time: 112 secs
+Final Score: 3000
+-
+Name: John
+Puzzles Solved: 2
+Time: 78 secs
+Final Score: 1500
+-
+Name: Emily
+Puzzles Solved: 4
+Time: 145 secs
+Final Score: 3500
+-
+Name: Michael
+Puzzles Solved: 5
+Time: 203 secs
+Final Score: 5000
+-
+Name: Sarah
+Puzzles Solved: 1
+Time: 56 secs
+Final Score: 500
+-
+Name: David
+Puzzles Solved: 3
+Time: 110 secs
+Final Score: 2750
+-
+Name: Anna
+Puzzles Solved: 4
+Time: 132 secs
+Final Score: 4000
+-
+Name: James
+Puzzles Solved: 0
+Time: 0 secs
+Final Score: 0
+-
+Name: Linda
+Puzzles Solved: 2
+Time: 89 secs
+Final Score: 1000
+-

@@ -1,0 +1,16 @@
+Instructions:
+To run the game, run the main method of the RunGame class in the main package.
+
+Commands (Type these keywords to perform certain actions in-game):
+    For 'yes' or 'no' prompts:
+        Type either 'yes'/'y' or 'no'/'n'
+    In the main screen:
+        Type "start/s" to begin the game
+        Type "leader/l" to view the leaderboard
+        Type "quit/q" to quit the game
+    In game, viewing the list of puzzles:
+        Type the number of the puzzle to try and solve it (e.g. 1)
+        Type "quit/q" to quit the game
+    While solving a puzzle:
+        Type "hint/h" to view the hint for the puzzle
+        Type "back/b" to return to the list of puzzles
